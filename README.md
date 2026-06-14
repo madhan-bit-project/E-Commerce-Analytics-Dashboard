@@ -68,6 +68,19 @@ E-Commerce-Analytics-Dashboard/
 * Correlation Heatmap
 * Product Category Analysis
 
+## Dataset Information
+
+The original Olist E-Commerce dataset files are not included in this repository due to GitHub file size limitations.
+
+The project contains:
+- Processed datasets used for analysis
+- Python analysis code
+- Power BI dashboard files
+- Visualization screenshots
+- KPI summaries
+
+The database and raw datasets can be regenerated using the provided Python script.
+
 ## Author
 
 Madhan
